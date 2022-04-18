@@ -1,2 +1,2 @@
-# Linux-Kernel
-2022 lab
+# lab0-c
+2022 linux hw1
